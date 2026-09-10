@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Tabassum Jahan  
 
 I’m passionate about creating software and websites that solve real problems and make life easier.  
-Right now, I’m diving deeper into **J2EE** and modern **web development technologies**, while building projects that sharpen my skills.  
+Right now, I’m diving deeper into modern **Full Stack development technologies with GenAI**, while building projects that sharpen my skills.  
 
 ### 💻 What I work with
 - JavaScript, TypeScript, React, Node.js, SQL  
